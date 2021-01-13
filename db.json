@@ -19,6 +19,101 @@
       "title": "Americanah",
       "author": "Chimamanda Ngozi Adichie",
       "id": 4
+    },
+    {
+      "title": "2021 Book",
+      "author": "Chimamanda Ngozi Adichie",
+      "id": 5
+    },
+    {
+      "title": "2021 Book",
+      "author": "Chimamanda Ngozi Adichie",
+      "id": 6
+    },
+    {
+      "title": "2021 Book",
+      "author": "Chimamanda Ngozi Adichie",
+      "id": 7
+    },
+    {
+      "title": "2021 Book",
+      "author": "Chimamanda Ngozi Adichie",
+      "id": 8
+    },
+    {
+      "title": "Purple Hibiscus",
+      "author": "Ngozi Adichie",
+      "release_data": {
+        "production": "2017",
+        "publication": null
+      },
+      "id": 9
+    },
+    {
+      "title": "Purple Hibiscus",
+      "author": "Ngozi Adichie",
+      "release_data": {
+        "production": "2017",
+        "publication": null
+      },
+      "id": 10
+    },
+    {
+      "title": "Purple Hibiscus",
+      "author": "Ngozi Adichie",
+      "release_data": {
+        "production": "2017",
+        "publication": null
+      },
+      "id": 11
+    },
+    {
+      "title": "Purple Hibiscus",
+      "author": "Ngozi Adichie",
+      "release_data": {
+        "production": "2017",
+        "publication": null
+      },
+      "id": 12
+    },
+    {
+      "title": "Purple Hibiscus",
+      "author": "Ngozi Adichie",
+      "release_data": {
+        "production": "2017",
+        "publication": null
+      },
+      "id": 13
+    },
+    {
+      "title": "Purple Hibiscus",
+      "author": "Ngozi Adichie",
+      "release_data": {
+        "production": "2017",
+        "publication": null
+      },
+      "id": 14
+    },
+    {
+      "title": "Ake",
+      "author": "Wole Soyinka ",
+      "release_data": {
+        "production": "1981",
+        "publication": null
+      },
+      "id": 15
+    },
+    {
+      "title": "The Interpreters",
+      "author": "Wole Soyinka ",
+      "release_data": {
+        "production_year": "1964",
+        "publication": {
+          "publication_year": "1965",
+          "publication_month": "september"
+        }
+      },
+      "id": 16
     }
   ],
   "comments": [
